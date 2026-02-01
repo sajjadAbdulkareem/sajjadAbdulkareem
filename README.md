@@ -48,10 +48,7 @@ const sajjad = {
 
 ### 💻 Software Developer - Freelance
 **2018 - Present**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-1e9a5f3a-6ff5-42d0-b7f3-e6c6f1e6e1a4.gif" width="100%">
-
-- Backend development with Laravel, CodeIgniter, MySQL
+ - Backend development with Laravel, CodeIgniter, MySQL
 - Frontend development with React.js
 - Building RESTful APIs and Backend systems
 - Mobile apps with Flutter, Kotlin, Ionic
