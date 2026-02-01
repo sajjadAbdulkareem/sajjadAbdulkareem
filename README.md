@@ -106,6 +106,9 @@ const sajjad = {
 
 </div>
 
+### 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=sajjadAbdulkareem&style=for-the-badge&color=2E9EF7&label=Profile%20Views)
+
 
 ### ⭐ If you like my work, don't forget to star!
 
