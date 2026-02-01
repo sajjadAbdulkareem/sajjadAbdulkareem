@@ -1,52 +1,57 @@
-<!-- Generated with ❤️ using GPRM (https://gprm.itsvg.in) -->
+<!-- Fully Animated GitHub Profile README -->
 
-<h1 align="center">Hi 👋 I'm Sajjad Abdulkareem</h1>
-<h3 align="center">Software Developer | Web • Blockchain • AI • Mobile</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sajjad+Abdulkareem;Software+Developer;Web+%7C+Blockchain+%7C+AI+%7C+Mobile;Building+scalable+solutions" />
+</h1>
 
 <p align="center">
-📍 Basrah, Iraq &nbsp;•&nbsp;
-🌐 <a href="https://sajjadabdulkareem.github.io/cv">Portfolio</a> &nbsp;•&nbsp;
-🐙 <a href="https://github.com/sajjadAbdulkareem">GitHub</a>
+  <img src="https://user-images.githubusercontent.com/74038190/216656960-7e7b7d7c-5b9a-4f3f-b8b8-9bb5d0df5c1d.gif" width="420" />
 </p>
 
 ---
 
-## 🚀 About Me
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=AAAAAA&center=true&vCenter=true&width=800&lines=Turning+ideas+into+code;Clean+Architecture+%7C+Modern+Stacks;Always+learning+new+technologies" />
+</h3>
 
-💻 Software Developer with **8+ years of experience**  
-🎓 **MSc in Computer Science & Information Technology** — University of Basrah  
-✨ Interested in **scalable systems, blockchain solutions, and AI-powered applications**
+---
 
-📅 *Last updated: Feb 2026*
+## 👨‍💻 About Me
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=FFFFFF&width=950&lines=Software+Developer+with+8%2B+years+of+experience.;Focused+on+building+clean%2C+scalable+applications.;Interested+in+Blockchain%2C+AI%2C+and+modern+Web+technologies." />
+</p>
+
+---
+
+## 🎓 Education
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&width=950&lines=MSc+in+Computer+Science+%26+Information+Technology;University+of+Basrah" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![Solidity](https://img.shields.io/badge/Solidity-black?style=flat&logo=solidity)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,solidity,react,laravel,codeigniter,nodejs,flutter,docker,git,linux&theme=dark" />
+</p>
 
 ---
 
-### 🌐 Web & Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajjadAbdulkareem&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🤖 AI & Blockchain
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red)
-![Ethereum](https://img.shields.io/badge/Ethereum-black?style=flat&logo=ethereum)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadAbdulkareem&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-⚡ <i>Building solutions, not just code.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=Code+is+not+just+code%2C+it's+a+solution." />
 </p>
