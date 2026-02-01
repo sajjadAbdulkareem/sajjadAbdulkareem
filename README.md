@@ -1,4 +1,4 @@
-<!-- Generated with ❤️ using GPRM (https://gprm.itsvg.in) -->
+<!-- GitHub Profile README - Fixed Icons + Animated -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sajjad+Abdulkareem+Mohsin;Software+Developer;Web+%7C+Blockchain+%7C+AI+%7C+Mobile" />
@@ -32,49 +32,61 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,cs,java,kotlin,dart,cpp,c,solidity,nodejs&theme=dark" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Web Development
+### 🌐 Web & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,laravel,codeigniter,wordpress,nodejs&theme=dark" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ---
 
 ### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,java,ionic&theme=dark" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
 
 ### 🤖 AI & Blockchain
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,ethereum&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=flat" />
-  <img src="https://img.shields.io/badge/Smart%20Contracts-black?style=flat" />
-  <img src="https://img.shields.io/badge/DApps-3C3C3D?style=flat" />
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart_Contracts-000000?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/DApps-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
 ---
 
 ### ⚙️ Tools & Practices
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-green?style=flat" />
-  <img src="https://img.shields.io/badge/MVC-blue?style=flat" />
-  <img src="https://img.shields.io/badge/SPA-purple?style=flat" />
-  <img src="https://img.shields.io/badge/Clean%20Code-lightgrey?style=flat" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPA-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Code-708090?style=for-the-badge" />
 </p>
 
 ---
