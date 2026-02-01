@@ -1,27 +1,45 @@
-👋 Hi, I'm Sajjad!
+Hi there 👋
 
 <!-- الكتابة المتحركة -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D36BCF7%26width%3D435%26lines%3DFull-Stack%2BDeveloper%3BBlockchain%2BEnthusiast%3BAI%2B%2526%2BMachine%2BLearning%2BResearcher%3BMSc%2Bin%2BComputer%2BScience" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D36BCF7%26width%3D435%26lines%3DFull-Stack%2BDeveloper%3BBlockchain%2BResearcher%3BAI%2BEnthusiast%3B8%2BYears%2BExperience" alt="Typing SVG" />
 </div>
 
-🚀 About Me
+<!-- عداد الزيارات -->
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DsajjadAbdulkareem%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="sajjadAbdulkareem" />
+</p>
+
+👨‍💻 About Me
+
+🔭 I’m currently working on Enterprise Logistics Systems & Blockchain IP Solutions
+
+🌱 I’m currently learning Advanced Deep Learning Architectures & Web3 Security
+
+👯 I’m looking to collaborate on Open Source AI & Smart Contract Projects
+
+🎓 I hold a Master's degree in Computer Science from Basrah University
+
+💬 Ask me about Laravel, React, Flutter, Solidity, and Python
+
+📫 How to reach me: sajjadkareem61@email.com
+
+⚡ Fun fact: I combine academic research with production-level code!
 
 <p align="left">
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5LggXNo0GbS27S/giphy.gif" width="150" align="right">
 I am a Software Developer with 8 years of experience, specializing in building integrated systems and innovative solutions.
 I combine academic research (MSc in Computer Science) with practical experience in Web, Mobile, and Emerging Tech.
 
-💻 <b>Senior Full-Stack Developer</b> specializing in Laravel, React, and Flutter.
 
-⛓️ <b>Blockchain Researcher</b> focused on Smart Contracts & IP Management.
 
-🤖 <b>AI Specialist</b> integrating Machine Learning into real-world applications.
+
 
 </p>
 
-🛠️ Tech Stack
+🛠️ Languages and Tools
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,laravel,react,js,ts,nodejs,python,mysql,mongodb,solidity,dart,flutter,kotlin,git,github,docker,wordpress,bootstrap,html,css" />
